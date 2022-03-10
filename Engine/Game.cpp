@@ -42,6 +42,7 @@ void Game::Go()
 	UpdateModel();
 	ComposeFrame();
 	gfx.EndFrame();
+	//is this message here?
 }
 
 void Game::UpdateModel()
